@@ -1,4 +1,3 @@
-# Presentation
 
 # Acerca de mí
 Soy un desarrollador de Android apasionado por crear aplicaciones innovadoras y fáciles de usar. Con años de experiencia en el desarrollo móvil, me esfuerzo por crear soluciones de calidad y siempre estoy buscando nuevos desafíos y oportunidades para aprender y crecer como desarrollador.
