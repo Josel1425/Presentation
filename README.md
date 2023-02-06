@@ -14,8 +14,13 @@ A continuación se presentan algunos de mis proyectos más destacados:
 
 # Habilidades
 Desarrollo de aplicaciones móviles en Android.
+
 Conocimiento de Java.
-Integración de APIs externas
-Desarrollo de aplicaciones en tiempo real
-Desarrollo de aplicaciones con material design
+
+Integración de APIs externas.
+
+Desarrollo de aplicaciones en tiempo real.
+
+Desarrollo de aplicaciones con material design.
+
 Si estás interesado en colaborar o contratar mis servicios, no dudes en ponerte en contacto conmigo. Estoy emocionado de trabajar en proyectos emocionantes y ayudar a llevar tus ideas a la vida.
